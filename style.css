@@ -329,7 +329,7 @@ a:active{color:var( --text-on-light);
   transition: color 0.2s ease, transform 0.2s ease;
 }
 
-.footer-social .fa-brands {
+.footer-social .fa-brands .fa-solid {
     font-size: 2rem;
 }
 
