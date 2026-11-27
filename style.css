@@ -329,6 +329,11 @@ a:active{color:var( --text-on-light);
   transition: color 0.2s ease, transform 0.2s ease;
 }
 
+.footer-social .fa-brands {
+    font-size: 2rem;
+}
+
+
 /* Hover and focus states for interactivity */
 .site-footer a:hover i,
 .site-footer a:focus i {
